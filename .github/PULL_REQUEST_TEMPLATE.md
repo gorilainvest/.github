@@ -11,15 +11,3 @@
 
 - [ ] Yes
 - [ ] No
-
-
-## Types of changes
-What types of changes does your code introduce to this repository?
-
-- [ ] Bugfix
-- [ ] Feature
-- [ ] Code style update (formatting, renaming)
-- [ ] Refactoring (no functional changes, no API changes)
-- [ ] Build related changes
-- [ ] Documentation content changes
-- [ ] Other (please describe):
